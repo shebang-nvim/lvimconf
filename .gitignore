@@ -1,0 +1,13 @@
+.DS_Store
+*~
+*.pdf
+*swp
+*pyc
+*.no
+*grive
+*tags
+*zwc
+/doc
+/doc/tags
+/doc/nvim.txt
+
